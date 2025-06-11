@@ -1,0 +1,17 @@
+Method: selectProductColor
+Msg: Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('button[data-swatch-name="Black"], div[aria-label="Black"]') to be visible
+
+
+Call Log:
+- Test timeout of 90000ms exceeded
+Method: addProductToCart
+Msg: Error: Method: selectProductColor
+Msg: Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator('button[data-swatch-name="Black"], div[aria-label="Black"]') to be visible
+
+
+Call Log:
+- Test timeout of 90000ms exceeded

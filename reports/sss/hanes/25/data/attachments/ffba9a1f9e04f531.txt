@@ -1,0 +1,6 @@
+Method: fillPayPalPaymentMethod
+Msg: Error: page.waitForSelector: Test ended.
+Call log:
+  - waiting for locator('input#password') to be visible
+    76 × locator resolved to hidden <input value="" id="password" type="password" required="required" name="login_password" placeholder="Password" aria-describedby="passwordErrorMessage" class="hasHelp  validateEmpty   pin-password"/>
+

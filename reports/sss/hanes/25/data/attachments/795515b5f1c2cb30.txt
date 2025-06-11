@@ -1,0 +1,4 @@
+Attempt 1 failed: browserContext.waitForEvent: Timeout 15000ms exceeded while waiting for event "page"
+Attempt 2 failed: browserContext.waitForEvent: Timeout 15000ms exceeded while waiting for event "page"
+Method: fillPayPalPaymentMethod
+Msg: Error: Failed to open PayPal window after 3 attempts
